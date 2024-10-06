@@ -1,0 +1,19 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "A simple BMI ()\u001b[DBody Mass Index) Calculator",
+  "main": "bmi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mark-Eugene-Barasu/BMI-CALCULATOR.git"
+  },
+  "author": "Eugene Mark Korku Barasu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mark-Eugene-Barasu/BMI-CALCULATOR/issues"
+  },
+  "homepage": "https://github.com/Mark-Eugene-Barasu/BMI-CALCULATOR#readme"
+}
