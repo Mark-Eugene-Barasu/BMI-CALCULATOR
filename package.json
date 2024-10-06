@@ -1,5 +1,6 @@
 {
   "name": "bmi_calculator",
+  "type": "module",
   "version": "1.0.0",
   "description": "A simple BMI (Body Mass Index) Calculator",
   "main": "bmi.js",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Mark-Eugene-Barasu/BMI-CALCULATOR/issues"
   },
-  "homepage": "https://github.com/Mark-Eugene-Barasu/BMI-CALCULATOR#readme"
+  "homepage": "https://github.com/Mark-Eugene-Barasu/BMI-CALCULATOR#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  }
 }
