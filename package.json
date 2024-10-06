@@ -1,7 +1,7 @@
 {
   "name": "bmi_calculator",
   "version": "1.0.0",
-  "description": "A simple BMI ()\u001b[DBody Mass Index) Calculator",
+  "description": "A simple BMI (Body Mass Index) Calculator",
   "main": "bmi.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
